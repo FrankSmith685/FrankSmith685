@@ -20,7 +20,7 @@ const Frank  = {
 <a href="https://www.linkedin.com/in/frank-smith-bocangelino-rojas-351157168/" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin-profile" height="30" width="40" />
 </a>
-<a href="f.s.b.rojas@gmail.com" target="_blank">
+<a href="mailto:f.s.b.rojas@gmail.com" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-profile" height="30" width="40" />
 </a>
 </p>
